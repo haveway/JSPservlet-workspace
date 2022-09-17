@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+
+	<!-- 
+		* web.xml 파일
+		- 배포 서술자(DD, Deployment Descriptor)라고 해서 해당 웹 어플리케이션의 기본적인 설정을 위해 작성하는 파일
+		- 해당 웹 어플리케이션을 구동시키는 서버가 start시 제일 먼저 읽혀지는 파일	
+		- 개발자가 web.xml파일을 수정하지 않고도 개발 및 운영이 가능하지만
+		규모가 커지고, 다양한 API들을 사용하게 되면 직접 수정을 해야하는 경우도 생김
+	 -->
+  <display-name>1_Servlet</display-name>
+  
+  <!-- 
+	* welcome-file : 처음에 url로 해당 이 어플리케이션 루트 요청시 제일 처음 보여지게되는 메인페이지를 지정해놓는 것
+	
+	http://구동중인서버의ip주소:포트번호/
+	http://localhost:8888/1_Servlet
+	=> 각자 본인 컴퓨터에 구축해놓은 서버의 IP주소를 요청 : 127.0.0.1 == localhost
+	=> 서버의 포트번호 : 8888  
+	=> 서버내의 구동중인 context root 지정 : 1_Servlet  
+  		단, welcome-file에 존재하는 파일명들이 반드시 WebContent폴더 안에 위치해야한다.
+   -->
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+</web-app>

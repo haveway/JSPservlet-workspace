@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2332035993.index
+\3_SubwayStore\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3070379726.index
+\2_JSP\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3360412514.index
+\JSPproject\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1564694859.index
+\JSPproject\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1229663000.index
+\JSPproject\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\554010287.index
+\1_Servlet\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1255816816.index
+\JSPproject\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2439164396.index
+\ajaxProject\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2402675711.index
+\3_SubwayStore\src
+C:\JSPservlet-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4037176536.index
+\JSPproject\src

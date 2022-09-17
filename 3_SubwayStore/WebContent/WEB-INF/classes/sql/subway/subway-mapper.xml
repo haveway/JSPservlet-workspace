@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+	<entry key="insertOrder">
+		INSERT INTO
+				    TB_ORDER
+		     VALUES
+		            (
+		            ?,
+		            ?,
+		            ?,
+		            ?,
+		            ?,
+		            ?,
+		            ?,
+		            ?,
+		            ?,
+		            SYSDATE
+		            )
+	</entry>
+	
+	<entry key="selectOrderList">
+		SELECT *
+		  FROM TB_ORDER
+	</entry>
+
+
+</properties>
